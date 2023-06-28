@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "qkerntool"]
 	path = qkerntool
 	url = https://github.com/cran/qkerntool
-	shallow = true
-	registered = true
